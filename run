@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./build/nwjs-v0.12.3-linux-x64/nw aria2-app.nw

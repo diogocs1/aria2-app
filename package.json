@@ -1,0 +1,12 @@
+{
+  "name": "Aria2-App",
+  "main": "src/index.html",
+  "window": {
+    "toolbar": false,
+    "width": 1200,
+    "height": 800
+  },
+  "dependencies": {
+    "lodash": "~3.10.1"
+  }
+}
